@@ -1,0 +1,6 @@
+Hi, My name is Katie.
+This is my intro file. 
+These are my answers to the 3 questions.
+1. MSPPM-DA
+2. Chicago
+3. Giraffe

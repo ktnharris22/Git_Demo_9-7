@@ -18,10 +18,10 @@ Activity 3:
 Break into groups of 2-3 and do some work...
 1. Every member of the group create your own branch. Name it after yourself.
 2. Create a txt file and answer these 3 questions.
-    1. Name?
-    2. Program and Year?
-    3. Favorite Animal?
-1. Now push these changes so they're up on the remote repository..
+    1. What Program are you in?
+    2. Where are you from?
+    3. What's your favorite animal?
+1. Now stage, commit, and push these changes so they're up on the remote repository.
 2. Create a pull request.
 3. Let's Merge
 >> Merge Conflicts? Let's talk about it.
