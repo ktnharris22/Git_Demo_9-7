@@ -15,7 +15,6 @@ Activity 2:
 https://github.com/ktnharris22/Git_Demo_9-7.git
 
 Activity 3:
-Break into groups of 2-3 and do some work...
 1. Every member of the group create your own branch. Name it after yourself.
 2. Create a txt file and answer these 3 questions.
     1. What Program are you in?
@@ -26,3 +25,4 @@ Break into groups of 2-3 and do some work...
 3. Let's Merge
 >> Merge Conflicts? Let's talk about it.
 
+https://docs.google.com/presentation/d/19zyq4wn_j_WNcok9jEo3CeBpZZBPUJZUJSXeC851x3M/edit?usp=sharing
