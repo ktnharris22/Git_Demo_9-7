@@ -17,7 +17,7 @@ https://github.com/ktnharris22/Git_Demo_9-7.git
 Activity 3:
 1. Every member of the group create your own branch. Name it after yourself.
 2. Create a txt file and answer these 3 questions.
-    1. What Program are you in?
+    1. What show should I binge next?
     2. Where are you from?
     3. What's your favorite animal?
 1. Now stage, commit, and push these changes so they're up on the remote repository.
