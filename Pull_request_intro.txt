@@ -1,0 +1,8 @@
+1. Create a branch
+2. Make your changes and then add a commit.
+3. Make a pull request once you're happy with your changes.
+>> Hopefully someone will review your changes before merging them themselves.. 
+you don't normally merge your own pull request.
+
+Try and avoid Merge Conflicts.
+1. Don't edit the same file at the same time as someone else.
